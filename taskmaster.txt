@@ -1,0 +1,40 @@
+ISAAC: Reach out to Jason regarding time to do motion capture and getting motion capture stickers. Share GIT repo.
+        -CSV creation from image data
+NOAH: B. Mass process video into arrays of pixels.
+EVAN: A.  Detect Region of a color using scatterplot and look for clusters.
+
+
+Week 8: 5/24-5/31/24
+ISAAC: Quicken the ImageToCSV.py,get in touch with Jason
+NOAH: Producing CSV from clusters, Change it to output the pixel location info into a file.
+EVAN: Clustering 
+
+
+Week 9: 5/31-6/7
+Tasks:
+        -Create object to store green pixels and track them
+        -Store X and Y coords as different  values as well
+        -Process the audio into useful information. https://medium.com/@karthikmandapaka/handling-audio-data-for-machine-learning-7ba225f183cb
+                -Pitch and amplitude perhaps?
+        -After meeting with Jason start working report of progress completed over the quarter and next steps
+        -go in and do sticker recording
+
+
+-leave audio in raw format potentially
+
+Risk that this has already been done
+        -mitigate by getting more niche
+        -event cameras
+                -less data to process
+                -higher_speed
+        -do more literature review/think about how to distinguish this
+        from other research
+        -artifical neural network instead of spiking?
+
+        -generating mesh by directly mapping image might be computationally expensive
+        -stickers less resource demanding
+        
+        -start with regular camera data
+        
+        -event camera if needed
+        

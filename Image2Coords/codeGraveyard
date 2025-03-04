@@ -1,0 +1,17 @@
+# with open(args.image_name, "rb") as image_file:
+#     string= image_file.read()
+#     data = bytearray(string)
+#     string = string[118:]
+#     width = struct.unpack_from('<i', data, 18)[0]
+#     height = struct.unpack_from('<i', data, 22)[0]
+#     print(string)
+#     image_array = np.empty((4,10),dtype = 'S')
+#     for i in range(height):
+#         for j in range(width):
+#             image_array[i,j] = string[0:3]
+#             string = string[3:]
+        
+#     print(width)
+#     print(height)
+#     print(image_array)
+    
